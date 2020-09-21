@@ -1,0 +1,45 @@
+2020-09-21 06:31:59,706 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-09-21 06:31:59,727 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-09-21 06:31:59,728 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: Version 5.3
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: java.version=1.8.0_261
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: os.name=Windows 10
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: os.arch=x86
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: os.version=10.0
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: file.encoding=Cp1251
+2020-09-21 06:31:59,729 INFO o.a.j.JMeter: java.awt.headless=null
+2020-09-21 06:31:59,730 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-09-21 06:31:59,730 INFO o.a.j.JMeter: Available Processors =4
+2020-09-21 06:31:59,751 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-09-21 06:31:59,751 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-09-21 06:31:59,751 INFO o.a.j.JMeter: JMeterHome=C:\Users\RStarikov\Documents\test_floodio\apache-jmeter-5.3
+2020-09-21 06:31:59,751 INFO o.a.j.JMeter: user.dir  =C:\Users\RStarikov\Documents\test_floodio\apache-jmeter-5.3\bin
+2020-09-21 06:31:59,752 INFO o.a.j.JMeter: PWD       =C:\Users\RStarikov\Documents\test_floodio\apache-jmeter-5.3\bin
+2020-09-21 06:31:59,756 INFO o.a.j.JMeter: IP: 192.168.0.106 Name: RStarikov FullName: host.docker.internal
+2020-09-21 06:32:00,030 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-09-21 06:32:00,638 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-09-21 06:32:03,103 INFO o.a.j.JMeter: Loading file: C:\Users\RStarikov\Documents\test_floodio\floodio\scenario\floodtest.jmx
+2020-09-21 06:32:03,106 INFO o.a.j.s.FileServer: Default base='C:\Users\RStarikov\Documents\test_floodio\apache-jmeter-5.3\bin'
+2020-09-21 06:32:03,108 INFO o.a.j.s.FileServer: Set new base='C:\Users\RStarikov\Documents\test_floodio\floodio\scenario'
+2020-09-21 06:32:03,315 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-09-21 06:32:03,371 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-09-21 06:32:03,373 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-09-21 06:32:03,379 INFO o.a.j.s.SaveService: Loading file: C:\Users\RStarikov\Documents\test_floodio\floodio\scenario\floodtest.jmx
+2020-09-21 06:32:03,620 INFO o.j.r.JARSourceHTTP: Found cached repo
+2020-09-21 06:32:03,660 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-21 06:32:03,660 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-21 06:32:03,660 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-21 06:32:03,661 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-09-21 06:32:03,661 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-09-21 06:32:03,661 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-09-21 06:32:03,691 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2020-09-21 06:32:04,028 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-filterresults=2.2, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-mergeresults=2.1, jpgc-perfmon=2.1, jpgc-plugins-manager=1.4, jmeter-prometheus=0.6.0, jpgc-synthesis=2.2, jpgc-tst=2.5, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3, jpgc-standard=2.0]
+2020-09-21 06:32:04,165 INFO o.a.j.s.FileServer: Set new base='C:\Users\RStarikov\Documents\test_floodio\floodio\scenario'
+2020-09-21 06:32:05,073 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-09-21 06:32:05,073 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-09-21 06:32:05,073 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-09-21 06:32:05,073 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-09-21 06:32:06,167 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2020-09-21 06:32:06,168 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
